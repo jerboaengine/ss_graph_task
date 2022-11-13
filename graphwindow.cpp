@@ -44,7 +44,7 @@ void GraphWindow::constructUI()
 
     QPushButton *butRun = new QPushButton;
     butRun->setFixedSize(BUTTON_SIZE);
-    butRun->setText("\u23F5");
+    butRun->setText("\u25b6");
     butRun->setFont(butsFont);
 
     QPushButton * butPause = new QPushButton;
